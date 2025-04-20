@@ -12,7 +12,7 @@ It's not intended for serious or long-term use — more of a fun or educational 
 To get started, clone the repository and navigate into the project directory:
 
 ```bash
-git clone <repo_url>
+git clone https://github.com/NameeLesS/BandMonitor.git
 cd BandMonitor
 ```
 
